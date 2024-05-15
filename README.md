@@ -5,7 +5,7 @@ estate industry, aiding both buyers and sellers in making informed decision. Man
 firms have long made decisions based on a combination of intuition and traditional,
 retrospective data. Today a host of new variables make it possible to paint more vivid pictures
 of location’s future risk and opportunities (Mckinsey,2018).
-MagicBricks is a Real Estate company in Canada. Company’s online platform provides deep
+MagicBricks is a psuedo Real Estate company in Canada. Company’s online platform provides deep
 coverage of the real estate market and property trends in major cities of Canada. The platform
 provides users insights on Tax planning and home loans. The company is expanding its
 business in Windsor city. Company recently acquired 110 new properties and will the
