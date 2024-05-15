@@ -1,4 +1,5 @@
 #Overview 
+
 House price prediction and personalized house recommendation are important tasks in the real
 estate industry, aiding both buyers and sellers in making informed decision. Many real estate
 firms have long made decisions based on a combination of intuition and traditional,
@@ -15,6 +16,7 @@ prediction and further knowing their preferences or subjective criteria’s we w
 the options of houses that will best suit their requirement.
 
 #Introduction
+
 Real Estate valuation is process to determine the market price of the property. From data driven
 decision making to enhanced risk management, increased efficiency, improved customer
 service, optimal resource allocation, predictive maintenance and sustainable practices,
@@ -27,6 +29,7 @@ recreation, full base, gas heating, air conditioner and garage.
 
 #Method/ Process
 Descriptive Analysis of Data
+
 As observed from summary statistics of data, housing prices in the City of Windsor, ranges
 between 25000 and 190000, with an average of 68120. The distribution of sales price is shown
 below, which indicates a higher frequency of the houses valued at 50000 and it quickly
@@ -49,6 +52,7 @@ bathrooms, stories, driveway, recreation, full basement, gas heating, air condit
 and client preference. The following steps outline the process of building the prediction model.
 
 #Data Collection and Preprocessing:
+
 • Gather real estate data for the city of Windsor, including relevant features and target
 variable (house prices).
 • Check for missing values, outliers, and data inconsistencies.
@@ -67,6 +71,7 @@ Feature Engineering:
 knowledge.
 
 #Data Splitting:
+
 • Divide the dataset into training and testing sets to evaluate the model's generalization
 performance accurately.
 • Utilize a common ratio, such as 80/20, for the split.
@@ -122,6 +127,7 @@ priority.
 5. Make a decision by selecting the highest ranking alternative.
 
 #Proposed AHP Model
+
 Analysis
 To perform the analysis of strength of various alternatives we gave a survey form to the client
 to rate each alternative with respect to each other on scale of 1 to 9. We used Saaty’ Scale to
@@ -185,27 +191,22 @@ Step 3: Compute the consistency ratio of the normalized matrix to ensure consist
 The Consistency Index is: 0.048
 The Consistency Ratio is: 0.043
 The model is consistent
-11
+
 Step 4: Calculate the global weights of the criteria and sub-criteria as per the local
 weights.
 Step 5: Normalized Pairwise comparison of alternatives with respect to criteria and sub-
 criteria and priority eigen values.
-13
-14
-15
-16
-17
-18
-19
-20
+
 Step 6: Calculating the sum of the global weights of the different alternatives present in
 the evoked set.
-21
+
 Step 7: Assign rank to each alternative based upon the priority level.
 Step 8: As per our decision, Property 3 is best out of 5 other alternatives.
 
 
-##Conclusion: To summarize, the conjunction of random forest algorithm and analytical
+##Conclusion:
+
+To summarize, the conjunction of random forest algorithm and analytical
 hierarchy method have been beneficial to address this company case. Whether it is predicting
 house price accurately or offering personalized house recommendation, this combined
 approach has unleashed the true potential of real estate analytics.
